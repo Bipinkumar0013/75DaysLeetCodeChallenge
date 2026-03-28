@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -58,5 +60,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
