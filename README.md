@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Tree
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Lifting
