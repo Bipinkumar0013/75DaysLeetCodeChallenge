@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
