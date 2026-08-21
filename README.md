@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
