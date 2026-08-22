@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0007-reverse-integer/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 | Problem Name | Difficulty |
