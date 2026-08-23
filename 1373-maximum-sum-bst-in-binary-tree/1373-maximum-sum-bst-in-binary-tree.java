@@ -58,6 +58,6 @@ class Solution {
          maxSum = Math.max(maxSum,sum);
 
       }
-        return  new Pent(max, min,size,sum, isBst);
+        return new Pent(max, min,size,sum, isBst);
     }
 }
