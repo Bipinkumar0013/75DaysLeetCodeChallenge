@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,4 +178,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
