@@ -31,11 +31,11 @@ class Solution {
 
         }
     }
-    static int max1;
+    static int maxSum;
     public int maxSumBST(TreeNode root) {
-        max1 = 0;
+        maxSum = 0;
         helper(root);
-        return (int)max1;
+        return maxSum;
 
         
     }
@@ -55,7 +55,7 @@ class Solution {
       }
       if(isBst){
          sum = root.val +lst.sum + rst.sum;
-         max1 = Math.max(max1,sum);
+         maxSum = Math.max(maxSum,sum);
 
       }
         return  new Pent(max, min,size,sum, isBst);
