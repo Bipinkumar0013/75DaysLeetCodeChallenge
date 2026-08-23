@@ -15,14 +15,14 @@
  */
 class Solution {
      class Pent {
-        long max;
-        long min;
-        long size;
-        long sum;
+        int max;
+        int min;
+        int size;
+        int sum;
         boolean isBst;
 
 
-        Pent(long max, long min,long size,long sum , boolean isBst) {
+        Pent(int max, int min,int size,int sum , boolean isBst) {
             this.max = max;
             this.min = min;
             this.size = size;
@@ -31,7 +31,7 @@ class Solution {
 
         }
     }
-    static long max1;
+    static int max1;
     public int maxSumBST(TreeNode root) {
         max1 = 0;
         helper(root);
@@ -43,11 +43,11 @@ class Solution {
         if (root == null) return new Pent(Integer.MIN_VALUE, Integer.MAX_VALUE,0,0, true);
         Pent lst = helper(root.left);
         Pent rst = helper(root.right);
-        long max = Math.max(root.val, Math.max(lst.max, rst.max));
-        long min = Math.min(root.val, Math.min(lst.min, rst.min));
-        long size = 1+ rst.size +lst.size;
+        int max = Math.max(root.val, Math.max(lst.max, rst.max));
+        int min = Math.min(root.val, Math.min(lst.min, rst.min));
+        int size = 1+ rst.size +lst.size;
         boolean isBst;
-        long sum =0;
+        int sum =0;
         if (lst.max < root.val && rst.min > root.val && lst.isBst && rst.isBst) {
             isBst = true;
         } else {
