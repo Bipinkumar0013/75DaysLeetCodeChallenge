@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Bipinkumar0013/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
